@@ -1,8 +1,18 @@
-body{
-    margin:0;
-    padding:0;
+*{
     box-sizing: border-box;
+    margin: 0;
+    padding:0;
 }
-.test{
-    border:2px solid red;
+html{
+    font-size:62.5%;
+}
+body{   
+    background-color:lightblue;
+    font-family: 'Poppins', sans-serif;
+    font-size:2.2rem;
+}
+
+.icon{
+    font-size: 40px;
+
 }
